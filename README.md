@@ -13,7 +13,7 @@ Users can create, view, update, and delete tasks while storing all data persiste
 ### Features:
 
 * Add new tasks
-* View all tasks
+* View all tasks 
 * Filter pending tasks using LINQ
 * Filter completed tasks using LINQ
 * Mark tasks as completed
