@@ -1,4 +1,4 @@
-# C-Console-Project-Task-Manager
+# CSharp-Console-Project-Task-Manager
 
 A console-based C# application developed using .NET 10.0 and Entity Framework Core.
 This project is a database-driven task management system that demonstrates CRUD operations, LINQ queries, persistent data storage, and clean console application architecture.
