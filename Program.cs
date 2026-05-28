@@ -1,5 +1,4 @@
-﻿// Program.cs
-namespace TaskManagerCLI
+﻿namespace TaskManagerCLI
 {
     class Program
     {

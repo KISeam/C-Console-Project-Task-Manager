@@ -1,5 +1,3 @@
-// TodoTask.cs
-
 namespace TaskManagerCLI
 {
     public class TodoTask

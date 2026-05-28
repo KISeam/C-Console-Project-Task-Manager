@@ -1,5 +1,3 @@
-// AppDbContext.cs
-
 using Microsoft.EntityFrameworkCore;
 
 namespace TaskManagerCLI
